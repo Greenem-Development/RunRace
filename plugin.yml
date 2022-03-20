@@ -1,0 +1,11 @@
+name: SpeedRunRace
+main: me.greenem.SpeedRunRace.MainFileSRR
+version: 1.0
+api-version: 1.17
+commands:
+   srrstart:
+      description: Start sending data.
+      default: true
+   srrstop:
+      description: Stop sending data.
+      default: true
